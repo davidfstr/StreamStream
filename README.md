@@ -29,6 +29,6 @@ $xmlReader->open($streamUri);
 
 ## License
 
-This code is licensed under the Apache License 2.0. Details can be found in the file [LICENSE].
+This code is licensed under the Apache License 2.0. Details can be found in the file [LICENSE.txt].
 
-[LICENSE]: https://github.com/davidfstr/StreamStream/blob/master/LICENSE
+[LICENSE.txt]: https://github.com/davidfstr/StreamStream/blob/master/LICENSE.txt
