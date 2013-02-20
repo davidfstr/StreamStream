@@ -1,9 +1,11 @@
 # StreamStream
 
-A stream wrapper implementation that reads from another underlying stream.
+Allows an existing stream object in PHP to be accessed by URL.
  
 This is useful to pass a stream as an input to a PHP API that only accepts
 URIs for its inputs, such as [XMLReader].
+
+StreamStream is implemented as a stream wrapper that reads from another underlying stream.
 
 [XMLReader]: http://php.net/manual/en/book.xmlreader.php
 
